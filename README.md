@@ -80,5 +80,3 @@ sudo apt-get update
 sudo apt-get install python-dev
 sudo pip install crcmod
 ```
-# MarvelMind_UnqTamiu
-# MarvelMind_UnqTamiu
