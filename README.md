@@ -22,6 +22,8 @@ Written by Alexander Rudykh (awesomequality@gmail.com)
   * /dev/ttyACM0 - typical for Linux
 
   * /dev/tty.usbmodem1451 - typical for Mac OS X
+  
+  * COM# - typical for Windows where # is a number
 
 
 **baud** - baudrate. Should be match to baudrate of hedgehog-beacon
